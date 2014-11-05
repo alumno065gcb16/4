@@ -21,6 +21,6 @@ $(document).ready(function(e){
 	},false);//ready divice
 });//Document
 function escribehistoria(accion){
-	$('#eHistoria').append('<li>'+accion+'</li>')
+	$('#eHistoria').append('<li>'+accion+'</li>');
 }
 
